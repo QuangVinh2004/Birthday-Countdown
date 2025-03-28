@@ -1,0 +1,12 @@
+{
+  "appId": "com.example.app",
+  "appName": "birthdayCountdown",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false,
+      "launchShowDuration": 0
+    }
+  }
+  
+}
